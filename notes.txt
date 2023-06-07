@@ -1,0 +1,2 @@
+- maybe add hanging signs for text
+	-easier weould just be floating text
